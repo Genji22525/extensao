@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nós - UniFil</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="unifil-logo.png" alt="UniFil Logo" class="logo">
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Protótipos</a></li>
+                <li><a href="#">Sobre Nós</a></li>
+                <li><a href="#">Extensão</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="sobre-nos">
+        <h1>Sobre Nós</h1>
+        <div class="team-container">
+            <div class="team-member">
+                <img src="alci.jpg" alt="Alcides Sandoli Neto">
+                <h2>Alcides Sandoli Neto</h2>
+                <p>Aluno do Segundo ano de Ciências da Computação da UniFil e Formado Técnico em Informática pelo Instituto Federal de Astorga.</p>
+                <a href="#" class="github-btn">GitHub</a>
+            </div>
+            <div class="team-member">
+                <img src="arthur.jpg" alt="Arthur Garcia Nonis">
+                <h2>Arthur Garcia Nonis</h2>
+                <p>Aluno do segundo ano de Ciências da Computação da UniFil Formado no ensino médio no colégio Olimpus.</p>
+                <a href="#" class="github-btn">GitHub</a>
+            </div>
+            <div class="team-member">
+                <img src="giovanna.jpg" alt="Giovanna Vitoriano">
+                <h2>Giovanna Vitoriano</h2>
+                <p>Aluno do Segundo ano de Ciências da Computação da UniFil e Formado Técnico em Administração pelo Instituto Educação Estadual de Londrina.</p>
+                <a href="#" class="github-btn">GitHub</a>
+            </div>
+            <div class="team-member">
+                <img src="victor.jpg" alt="Victor Matos">
+                <h2>Victor Matos</h2>
+                <p>Aluno do Segundo ano de Engenharia de Software da UniFil e formado no ensino médio no colégio PGD.</p>
+                <a href="#" class="github-btn">GitHub</a>
+            </div>
+            <div class="team-member">
+                <img src="heberton.jpg" alt="Héberton Santiago Gonçalves D.R">
+                <h2>Héberton Santiago Gonçalves D.R</h2>
+                <p>Aluno do segundo ano de ciência da computação unifil e Formado e especializado em back-end e Formado do Colégio Nossa Senhora Das Neves.</p>
+                <a href="#" class="github-btn">GitHub</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

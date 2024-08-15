@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black; /* Fundo da página preto */
+    color: white; /* Texto branco */
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: orange; /* Botões laranja */
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #ff8c00; /* Alterar para um laranja mais escuro ao passar o mouse */
+}
+
+.project-title {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.project-description {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.description-column-left,
+.description-column-right {
+    display: flex;
+    flex-direction: column;
+    width: 48%;
+}
+
+.description-box {
+    background-color: #333; /* Fundo das caixas de texto cinza escuro */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: white; /* Texto branco nas caixas de texto */
+}
+
+h2 {
+    margin-top: 0;
+}

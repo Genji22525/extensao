@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DiceForge</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="eye-logo">VIVID DREAMS PRESS</div>
+        <h1 class="title">DiceForge</h1>
+        <div class="author">seja bem vindo</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre o Projeto</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Barra de Navegação -->
+    <nav>
+        <div class="logo">
+            <img src="logo.png" alt="Logo" class="logo-img">
+            <span>UniFil</span>
+        </div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Protótipos</a></li>
+            <li><a href="#">Sobre Nós</a></li>
+            <li><a href="#">Extensão</a></li>
+        </ul>
+    </nav>
+
+    <!-- Seção Sobre o Projeto -->
+    <section class="sobre-projeto">
+        <h1>Sobre o projeto</h1>
+        <div class="container">
+
+            <div class="row right">
+                <div class="text">
+                    <h2>Quando começou?</h2>
+                </div>
+                <div class="box box1">
+                    <p>A ideia sobre o DiceForge se deu início no ano de 2023 durante um projeto que um dos professores havia passado para realizarmos. Porém, naquele momento, só tínhamos feito algumas funções de botões e o visual do aplicativo. No entanto, no ano posterior, com a matéria de extensão curricular, tivemos a possibilidade de retomarmos ele. E assim, tornamos a desenvolvê-lo.</p>
+                </div>
+            </div>
+
+            <div class="row left">
+                <div class="box box2">
+                    <p>Devido a alguns membros do grupo pertencerem à comunidade de RPG, a ideia por trás do aplicativo era de facilitar a vida da comunidade de jogadores. Pois é difícil encontrar um aplicativo que faça essa organização, principalmente com relação às fichas dos personagens. Então a solução que o grupo encontrou foi a criação de um aplicativo que pudesse não somente criar fichas, mas também importar fichas externas e fornecer outras funções como: rolar dados, criação de habilidades, magias e etc. Tudo para facilitar a comunidade de jogadores.</p>
+                </div>
+                <div class="text">
+                    <h2>Por que um aplicativo de RPG?</h2>
+                </div>
+            </div>
+
+            <div class="row right">
+                <div class="text">
+                    <h2>Como está atualmente?</h2>
+                </div>
+                <div class="box box3">
+                    <p>Atualmente o DiceForge está sendo melhorado e atualizado para que ele possa executar as funções pensadas para ele, como: as funções de criar habilidades, magias e equipamentos. A rolagem dos dados e também as informações dos personagens, como: vida, experiência e mana, bem como sua mana.</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+</body>
+</html>

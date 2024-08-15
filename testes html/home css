@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000000; /* Fundo preto */
+    color: #D3C0FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+}
+
+.eye-logo {
+    font-size: 12px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.eye-logo::before {
+    content: '👁';
+    display: block;
+    font-size: 24px;
+}
+
+.title {
+    font-size: 64px;
+    margin: 0;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.author {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+}

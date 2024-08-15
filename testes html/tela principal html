@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto DiceForge - UniFil</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">UniFil</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Projeto</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Extensão</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="project-title">
+            <h1>Projeto de Extensão UniFil<br>DiceForge</h1>
+        </section>
+        <section class="project-description">
+            <div class="description-column-left">
+                <div class="description-box">
+                    <h2>O que é extensão curricular na universidade?</h2>
+                    <p>A extensão da educação superior no Brasil é a atividade que se integra à matriz curricular e à organização da pesquisa. Ainda conforme o conselho citado, a extensão constitui-se em processo interdisciplinar, político educacional, cultural, científico e tecnológico que promove a interação transformadora entre as instituições de ensino superior e os outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa.</p>
+                </div>
+                <div class="description-box">
+                    <h2>O que é o DiceForge?</h2>
+                    <p>DiceForge é um aplicativo para construção de fichas de RPG de mesa, de um modo para ser utilizado no jogo D&D feito pela empresa Wizards of the Coast. O aplicativo será um lugar para se guardar as fichas de forma mais organizada e digital facilitando a verificação de recursos que um personagem pode ter.</p>
+                </div>
+            </div>
+            <div class="description-column-right">
+                <div class="description-box">
+                    <h2>De onde vem e para que?</h2>
+                    <p>O projeto DiceForge vem da necessidade de completar as Práticas de Extensão dos cursos de Ciências da Computação e Engenharia de Software na Universidade Filadélfia (UniFil), este blog/portfólio é um meio do qual iremos postar o progresso e andamento do projeto bem como as etapas que foram utilizadas para realizá-lo.</p>
+                </div>
+                <div class="description-box">
+                    <h2>Mais informações</h2>
+                    <p>Este é um projeto piloto que pode se expandir para outras universidades e aplicações. A ideia é fornecer uma ferramenta útil e prática para jogadores de RPG, tornando mais fácil a administração de suas fichas de personagem.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
